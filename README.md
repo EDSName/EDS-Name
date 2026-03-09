@@ -5,13 +5,13 @@
 
 Transform cryptographic addresses into memorable human-readable names on the Endless blockchain. Own your digital identity as an NFT.
 
-**Live Platform:** https://eds-name.netlify.app
+**Live Platform:** https://luxury-banoffee-b4a82b.netlify.app/
 
 ---
 
 ## What Is .EDS Name?
 
-.EDS Name is a decentralized naming service built natively on the Endless blockchain using Move smart contracts. We solve Web3's biggest UX problem: nobody can remember `0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb`.
+.EDS Name is a decentralized naming service built natively on the Endless blockchain using Move smart contracts. We solve Web3's biggest UX problem: nobody can remember `3nX6ryrZmrBTUGfUwmb9TKQPgnhP558DBrT4ozSrU8Mb`.
 
 **With .EDS, you become simply `alice.eds`**
 
