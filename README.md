@@ -150,7 +150,7 @@ Developed with ❤️ by a developer passionate about Web3 and blockchain.
 
 ## 📞 Contact and Support
 
-- 🌐 **Website**: [eds-name.netlify.app](https://eds-name.netlify.app)
+- 🌐 **Website**: [eds-name.netlify.app](https://luxury-banoffee-b4a82b.netlify.app/)
 - 🐦 **Twitter**: [@EDSName](https://twitter.com/edsname)
 
 <div align="center">
